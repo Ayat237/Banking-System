@@ -1,0 +1,21 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    url: jdbc:h2:mem:testDB
+    driverClassName: org.h2.Driver
+    username: sa
+    password: ''
+  h2:
+    console:
+      enabled: true
+
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      # if tables not created , create it because if server off , all tables deleted ,
+      # so it can help to recreate the tables
+      ddl-auto: update
+      # to show all query sql that is executed after each operation behind the scene
+      show-sql: true
