@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7b2f308-97b8-411c-8257-f9efa7010a7f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/accounts/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/.idea/cards.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cards/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cards/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cards/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/src/main/java/com/eaztbytes/cards/CardsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/src/main/java/com/eaztbytes/cards/Repository/CardsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/src/main/java/com/eaztbytes/cards/audit/AuditAwareImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/src/main/java/com/eaztbytes/cards/constants/CardsConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/src/main/java/com/eaztbytes/cards/controller/CardsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/src/main/java/com/eaztbytes/cards/dto/CardsDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/src/main/java/com/eaztbytes/cards/dto/ErrorResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/src/main/java/com/eaztbytes/cards/dto/ResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/src/main/java/com/eaztbytes/cards/entity/BaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/src/main/java/com/eaztbytes/cards/entity/Cards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/src/main/java/com/eaztbytes/cards/exception/CardAlreadyExistsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/src/main/java/com/eaztbytes/cards/exception/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/src/main/java/com/eaztbytes/cards/exception/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/src/main/java/com/eaztbytes/cards/mapper/CardsMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/src/main/java/com/eaztbytes/cards/service/ICardsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/src/main/java/com/eaztbytes/cards/service/impl/CardsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/src/main/resources/schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/cards/src/test/java/com/eaztbytes/cards/CardsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loans/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loans/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loans/src/main/java/com/eazybytes/loans/LoansApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/loans/src/main/java/com/eazybytes/loans/LoansApplication.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="35R5No9XIA9ggwlfX96pu8IKlgR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CardsApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "project.propCompiler"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="CardsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eaztbytes.cards.CardsApplication" />
+      <module name="cards" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eaztbytes.cards.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CardsApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7b2f308-97b8-411c-8257-f9efa7010a7f" name="Changes" comment="" />
+      <created>1763060005573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763060005573</updated>
+    </task>
+    <servers />
+  </component>
+</project>

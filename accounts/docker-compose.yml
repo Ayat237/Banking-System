@@ -1,0 +1,38 @@
+services:
+  accounts:
+    image: ayat237/accounts:v1
+    container_name: accounts-ms
+    ports:
+      - "8080:8080"
+    deploy:
+      resources:
+        limits:
+          memory: 700m
+    networks:
+      - bankSystem
+  loans:
+    image: ayat237/loans:v1
+    container_name: loans-ms
+    ports:
+      - "8091:8091"
+    deploy:
+      resources:
+        limits:
+          memory: 700m
+    networks:
+      - bankSystem
+  cards:
+    image: ayat237/cards:v1
+    container_name: cards-ms
+    ports:
+      - "9000:9000"
+    deploy:
+      resources:
+        limits:
+          memory: 700m
+    networks:
+      - bankSystem
+
+networks:
+  bankSystem:
+    driver: "bridge"
